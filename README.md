@@ -7,7 +7,7 @@
 - 🌱 I’m learning **Node.js, Express.js, and AI Integrations**
 - 👯 I’m open to collaborating on **creative and impactful web apps**
 - 💬 Ask me about **React, Firebase, Tailwind, and web app architecture**
-- 📫 Reach me at **narayanbonanzakweky@gmail.com**
+- 📫 Reach me at **narayanbonanzakweku@gmail.com**
 - ⚡ Fun fact: I sometimes turn boring features into memes 😎
 
 ---
@@ -51,5 +51,5 @@ Here are a few I’m proud of:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bonanza-kweku-narayan-198553346/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:narayanbonanzakweky@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:narayanbonanzakweku@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
