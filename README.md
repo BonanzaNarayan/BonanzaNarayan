@@ -62,7 +62,7 @@
 - 🛠️ Prototyping serverless SaaS with **Firebase + Vercel**
 
 ---
-<h1 align="center">🙌Let’s Connect</h1>
+<h1 align="center">🙌 Let’s Connect</h1>
 <p>
   <p align="center">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3QzYW51d2Y0ODQxZjNlM3kwY2s0YWF2dzBuMWtnejMwbTlreW1yMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPHgtwOWk7xwta52n2/giphy.gif" width="200" alt="coding-gif" />
