@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Bonanza</h1>
-<h3 align="center">Web Developer from Ghana 🇬🇭 | Creative Technologist | Meme-Powered Coder</h3>
+<h3 align="center">Web Developer | Creative Technologist | Meme-Powered Coder</h3>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQ0MGxiNW94NGM2OTY5eDltbzg5dHMweTg4aHhtZ2ZrY2gydjlwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YAnpMSHcurJVS/giphy.gif" width="300" alt="coding-gif" />
@@ -12,7 +12,7 @@
 - 🔭 Currently working on: [CBS-Link-App](https://cbslink.netlify.app/)  
 - 🌱 Learning: **Node.js**, **Express.js**, and **AI Integrations**  
 - 👯 Open to collab on: **Creative, impactful web apps**  
-- 💬 Ask me about: **React**, **Firebase**, **Tailwind**, and **web app architecture**  
+- 💬 Ask me about: **React**, **Firebase**, **Supabase**, **Next Js**, **Tailwind**, and **web app architecture**  
 - 📫 Reach me: **narayanbonanzakweku@gmail.com**  
 - ⚡ Fun Fact: I sometimes turn boring features into memes 😎  
 
@@ -21,7 +21,7 @@
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,firebase,tailwind,js,html,css,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,firebase,supabase,tailwind,js,html,css,git,vscode,figma" />
 </p>
 
 ---
